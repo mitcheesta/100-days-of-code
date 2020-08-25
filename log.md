@@ -1,3 +1,14 @@
+#100 Days Of Code - Log
+### Day 0 - 2020.08.22
+**Today's Progress**: Spent some time on setting up a local Laravel environment for practice. Reviewed PHP types and functions afterwards.
+
+**Thoughts**: Got Homestead on VirtualBox working, but after further research, I decided to switch over to Laragon for improved speed and better functionality. Encountered an issue with dynamically converting a project over to Nginx from Apache, but after some tinkering with config files, I found that recreating the project was the cleanest way to fix the issue.
+
+### Day 1 - 2020.08.23
+**Today's Progress**: Continued to review PHP types and functions. Began acquainting myself with basic Laravel MVC features and routing functionality.
+
+**Thoughts**: I'm enjoying the framework so far and commands have felt very intuitive. 
+
 <!--
 
 # 100 Days Of Code - Log
