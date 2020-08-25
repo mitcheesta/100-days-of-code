@@ -9,6 +9,11 @@
 
 **Thoughts**: I'm enjoying the framework so far and commands have felt very intuitive. 
 
+### Day 2 - 2020.08.24
+**Today's Progress**: Worked with MySQL DB using Laravel. Familiarized myself with Eloquent Models, migration functionality, and tinker mode.
+
+**Thoughts**: Continuing to enjoy working with this framework. I can see why some people have concerns that it obscures a lot of functionality from newer programmers who haven't had the opportunity to familiarize themselves with those concepts. Luckily I don't have that concern for myself.
+
 <!--
 
 # 100 Days Of Code - Log
