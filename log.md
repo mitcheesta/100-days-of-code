@@ -14,6 +14,21 @@
 
 **Thoughts**: Continuing to enjoy working with this framework. I can see why some people have concerns that it obscures a lot of functionality from newer programmers who haven't had the opportunity to familiarize themselves with those concepts. Luckily I don't have that concern for myself.
 
+### Day 3 - 2020.08.27
+**Today's Progress**: Helping out a friend with some basic CSS changes
+
+**Thoughts**: I was pleasantly surprised by how comfortable I still am with CSS.Wordpress.org is a bit annoying and unintuitive to work with. Working with the HTML directly is much more effective than hoping that the block editor does what you want it to.
+
+### Day 4 - 2020.08.28
+**Today's Progress**: Helping out friend translate some wireframing into CSS. Refreshed my knowledge of Flex Grid and CSS Grids
+
+**Thoughts**: Wordpress.org, especially with a non-Business account, is ridiculously restrictive. Thankfully CSS has become powerful enough to make interactive websites without being able to customize JavaScript.
+
+### Day 5 - 2020.08.29
+**Today's Progress**: Helping out friend make site responsive for 3 breakpoints: monitor, tablet, and mobile.
+
+**Thoughts**: Most of the site was already set due to the good foundation that the existing CSS created. Had to wrangle with the default theme's quirks, but I think the result was respectable.
+
 <!--
 
 # 100 Days Of Code - Log
