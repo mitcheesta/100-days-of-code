@@ -29,6 +29,21 @@
 
 **Thoughts**: Most of the site was already set due to the good foundation that the existing CSS created. Had to wrangle with the default theme's quirks, but I think the result was respectable.
 
+### Day 6 - 2020.08.31
+**Today's Progress**: Reviewed PDOs and setting up secure project configs.
+
+**Thoughts**: The framework I use at work has abstracted PDOs for me so it was nice looking into their functionality again. Likewise with the project configs having been long defined and not needing edits, it was a good refresher on how to do those things on a new project.
+
+### Day 7 - 2020.09.01
+**Today's Progress**: Worked through some clean coding examples and learned some techniques to help implement some principles.
+
+**Thoughts**: It was beneficial to pause and think through some clean coding principles that I need to consider when programming. I've been focusing more on functionality and QA lately so I was a good shift to (re)introduce some of these concepts into my code.
+
+### Day 8 - 2020.09.04
+**Today's Progress**: Reviewing data structures in relation to PHP.
+
+**Thoughts**: I have my go-to data structures that I use in PHP, but I wanted to start making deeper connections between the Comp Sci concepts I learned with Java and C++ and understand how they translate into PHP (if they feasibly can at all).
+
 <!--
 
 # 100 Days Of Code - Log
